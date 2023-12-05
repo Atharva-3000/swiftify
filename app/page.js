@@ -5,13 +5,17 @@ import './globals.css';
 import Navbar from './header/Navbar'
 import Landing from './landing/Landing'
 import LandFooter from './footers/LandFooter'
+import FileAccess from './fileAccess/page';
+import Loader from './loader/page';
 
 const Page = () => {
   return (
     <div>
-      <Navbar />
+      {/* <Navbar />
       <Landing />
-      <LandFooter />
+      <LandFooter /> */}
+      {/* <FileAccess/> */}
+      <Loader/>
     </div>
   )
 }

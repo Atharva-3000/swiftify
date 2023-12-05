@@ -1,0 +1,233 @@
+.uploading {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.scrollBelow1 {
+  margin: 0;
+}
+.scrollBelow {
+  position: absolute;
+  top: 822px;
+  left: 91px;
+  font-size: 28.09px;
+  color: #5a5a5a;
+}
+.gradients {
+  position: absolute;
+  top: 167px;
+  left: 790px;
+  width: 340px;
+  height: 890px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+  opacity: 0.3;
+  mix-blend-mode: color-burn;
+}
+.groupIcon {
+  position: relative;
+  width: 54.3px;
+  height: 63.4px;
+}
+.swiftify {
+  position: relative;
+}
+.groupParent {
+  position: absolute;
+  top: 60px;
+  left: 84px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 18px;
+  font-size: 32.08px;
+}
+.textLogoDark1x21 {
+  position: absolute;
+  top: 951px;
+  left: 153px;
+  width: 150px;
+  height: 37.63px;
+  object-fit: cover;
+}
+.iconarrowBigDown1 {
+  position: absolute;
+  top: 1020px;
+  left: 948px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.loaderChild {
+  position: absolute;
+  top: 579px;
+  left: 214px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 42px;
+  height: 42px;
+}
+.loaderItem {
+  position: absolute;
+  top: 587px;
+  left: 223px;
+  border-radius: 50%;
+  background-color: #ff6700;
+  width: 25px;
+  height: 25px;
+}
+.loaderInner {
+  position: absolute;
+  top: 579px;
+  left: 578px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 42px;
+  height: 42px;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 579px;
+  left: 941px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 42px;
+  height: 42px;
+}
+.loaderChild1 {
+  position: absolute;
+  top: 579px;
+  left: 1305px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 42px;
+  height: 42px;
+}
+.loaderChild2 {
+  position: absolute;
+  top: 574px;
+  left: 1669px;
+  border-radius: 50%;
+  background-color: #fff;
+  width: 42px;
+  height: 42px;
+  cursor: pointer;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 595px;
+  left: 256px;
+  border-radius: 33px;
+  background-color: #ff6700;
+  width: 322px;
+  height: 10px;
+}
+.loaderChild3 {
+  position: absolute;
+  top: 595px;
+  left: 619px;
+  border-radius: 33px;
+  background-color: #ff6700;
+  width: 322px;
+  height: 10px;
+}
+.loaderChild4 {
+  position: absolute;
+  top: 595px;
+  left: 983px;
+  border-radius: 33px;
+  background-color: #fff;
+  width: 322px;
+  height: 10px;
+}
+.loaderChild5 {
+  position: absolute;
+  top: 590px;
+  left: 1347px;
+  border-radius: 33px;
+  background-color: #fff;
+  width: 322px;
+  height: 10px;
+}
+.loaderChild6 {
+  position: absolute;
+  top: 587px;
+  left: 587px;
+  border-radius: 50%;
+  background-color: #ff6700;
+  width: 25px;
+  height: 25px;
+}
+.loaderChild7 {
+  position: absolute;
+  top: 587px;
+  left: 949px;
+  border-radius: 50%;
+  background-color: #ff6700;
+  width: 25px;
+  height: 25px;
+}
+.fileBeingUploaded1 {
+  position: absolute;
+  top: 702px;
+  left: 214px;
+  font-size: 36.09px;
+  color: #c6c6c6;
+}
+.estimatedTimeRemaining1 {
+  position: absolute;
+  top: 698px;
+  left: 1477px;
+  font-size: 32px;
+  color: #fff;
+}
+.file2738ehfkjhwfhwiofhrihrfmp {
+  position: absolute;
+  top: 782px;
+  left: 214px;
+  font-size: 19.09px;
+  color: #b2b2b2;
+}
+.file2738ehfkjhwfhwiofhrihrfmp1 {
+  position: absolute;
+  top: 816px;
+  left: 214px;
+  font-size: 16.09px;
+  color: #585858;
+  display: inline-block;
+  width: 329px;
+  height: 24px;
+}
+.mins {
+  position: absolute;
+  top: 767px;
+  left: 1574px;
+  font-size: 31px;
+  color: #808080;
+}
+.httpsapplottiefilescomanIcon {
+  position: absolute;
+  top: 232px;
+  left: 790px;
+  width: 344px;
+  height: 344px;
+  object-fit: cover;
+}
+.loader {
+  position: relative;
+  background-color: #151515;
+  width: 100%;
+  height: 1082.59px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 68px;
+  color: #e1e1e1;
+  font-family: Inter;
+}
